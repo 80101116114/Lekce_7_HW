@@ -27,15 +27,16 @@ namespace Lekce_7_HW
                 Console.WriteLine("Ha! Někdo se nám tu snaží stočit tachometr!");
                 return;
             }
-            else if (kilometres == 0) {
+             if (kilometres == 0) {
                 Console.WriteLine("Nic jsi neujel");
                 return;
+
             }
-            { 
+             
             Console.WriteLine("Ujel jsi " + kilometres + "km.");
             Console.WriteLine("Stav tvého tachometru: ");
             Console.WriteLine(_mileAge + kilometres);
-            }
+            
         }
         public void DisplayCarInfo()
         {

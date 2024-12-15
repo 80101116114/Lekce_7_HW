@@ -19,6 +19,7 @@
             int PocetStranInt= int.Parse(PocetStran);
             knizka.Read(PocetStranInt);
             knizka.DisplayProgress();
+           
         }
 
     }

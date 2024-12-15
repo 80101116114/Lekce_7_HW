@@ -12,3 +12,4 @@ C:\Users\Petr\Desktop\Lekce_7_HW\Lekce_7_HW\obj\Debug\net8.0\refint\Lekce_7_HW.d
 C:\Users\Petr\Desktop\Lekce_7_HW\Lekce_7_HW\obj\Debug\net8.0\Lekce_7_HW.pdb
 C:\Users\Petr\Desktop\Lekce_7_HW\Lekce_7_HW\obj\Debug\net8.0\Lekce_7_HW.genruntimeconfig.cache
 C:\Users\Petr\Desktop\Lekce_7_HW\Lekce_7_HW\obj\Debug\net8.0\ref\Lekce_7_HW.dll
+C:\Users\Petr\Desktop\Lekce_7_HW\Lekce_7_HW\obj\Debug\net8.0\Lekce_7_HW.sourcelink.json
